@@ -2,12 +2,13 @@
 
 A simple Python tool for managing and tracking telecom stock investments. This tracker allows you to add or remove stocks from your portfolio, calculate the total portfolio value using live stock prices, and visualize the distribution of your investments with a pie chart. It also supports saving and loading portfolio data.
 
-[portfolio tracker image](https://github.com/user-attachments/assets/f06b9f5c-586c-409c-9b8d-e360474cd768)
+![portfolio tracker image](https://github.com/user-attachments/assets/85df7f2b-f4b3-4df7-aa77-71b606422e84)
 
 ## Features
 
 - **Add Telecom Stocks**: Add stocks of popular telecom companies to your portfolio.
 - **Remove Stocks**: Remove stocks from your portfolio using their stock symbol.
+
 
 - **Live Price Fetching**: Automatically fetch the latest stock prices using Yahoo Finance.
 - **Portfolio Value Calculation**: Calculate the total value of your portfolio based on live stock prices.
