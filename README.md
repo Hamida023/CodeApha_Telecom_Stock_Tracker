@@ -2,7 +2,7 @@
 
 A simple Python tool for managing and tracking telecom stock investments. This tracker allows you to add or remove stocks from your portfolio, calculate the total portfolio value using live stock prices, and visualize the distribution of your investments with a pie chart. It also supports saving and loading portfolio data.
 
----[portfolio tracker image](https://github.com/user-attachments/assets/f06b9f5c-586c-409c-9b8d-e360474cd768)
+[portfolio tracker image](https://github.com/user-attachments/assets/f06b9f5c-586c-409c-9b8d-e360474cd768)
 
 ## Features
 
